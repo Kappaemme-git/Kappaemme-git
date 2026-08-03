@@ -1,28 +1,34 @@
 # Hi, I'm Francesco 👋
 
-I'm an Italian Computer Science student passionate about building AI-powered developer tools, mobile apps and open-source software.
+I'm an Italian Computer Science student building AI-powered developer tools, mobile apps and open-source software.
 
 I enjoy turning ideas into real products and sharing everything I build in public.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 📱 Microdex
-An open-source mobile companion for Codex that lets you interact with your local Codex runtime directly from your phone.
 
-🔗 https://github.com/Kappaemme-git/microdex
+Microdex is an open-source mobile companion for Codex that lets you interact with your local Codex runtime directly from your phone.
 
----
+⭐ Star the project if you find it useful.
 
-### 🧠 Codex Startup Pressure Test
-An AI-powered framework that helps founders validate startup ideas through structured pressure testing.
-
-🔗 https://github.com/Kappaemme-git/codex-startup-pressure-test-skill
+👉 https://github.com/Kappaemme-git/microdex
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Portfolio
+
+Want to see everything I'm building?
+
+**→ https://kappaemme.dev**
+
+There you'll find my latest projects, experiments and apps.
+
+---
+
+## 🛠 Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,42 +37,17 @@ An AI-powered framework that helps founders validate startup ideas through struc
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kappaemme-git&show_icons=true&hide_border=true&rank_icon=github)
+🌐 Website → https://kappaemme.dev
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kappaemme-git&layout=compact&hide_border=true)
+🐦 X → https://x.com/Kappaemme1926
 
----
-
-## 🌍 Connect with me
-
-🌐 **Website**  
-https://kappaemme.dev
-
-🐦 **X (Twitter)**  
-https://x.com/Kappaemme1926
-
-💻 **GitHub**  
-https://github.com/Kappaemme-git
-
-❤️ **Sponsor my work**  
-https://github.com/sponsors/Kappaemme-git
+❤️ Sponsor → https://github.com/sponsors/Kappaemme-git
 
 ---
 
-## 🎯 What I'm building
-
-- 🤖 AI developer tools
-- 📱 Mobile applications
-- ⚡ Open-source software
-- 🧠 Experiments with coding agents
-- 🚀 Indie products
-
----
-
-> *Building useful software, one project at a time.*
+> Building useful software. Shipping fast. Learning every day.
