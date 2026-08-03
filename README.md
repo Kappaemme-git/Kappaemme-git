@@ -6,8 +6,14 @@
 
 <p align="center">
   <strong>Building AI-powered software and open-source tools.</strong>
-  <br>
+  <br><br>
   Building in public.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Developer-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Indie%20Hacker-black?style=for-the-badge" />
 </p>
 
 ---
@@ -30,7 +36,7 @@ Interact with your local Codex runtime from anywhere.
 
 Explore everything I'm building, from open-source tools to AI projects.
 
-**→ https://kappaemme.dev**
+### → https://kappaemme.dev
 
 ---
 
@@ -52,21 +58,19 @@ If one of my projects helped you, consider sponsoring my open-source work.
 
 # 🤝 Connect
 
-🌍 Website  
+🌍 **Website**  
 https://kappaemme.dev
 
-𝕏 X (Twitter)  
+𝕏 **X (Twitter)**  
 https://x.com/Kappaemme1926
 
-💻 GitHub  
+💻 **GitHub**  
 https://github.com/Kappaemme-git
 
 ---
 
 <p align="center">
-
-### Building products developers actually use.
-
-One project at a time.
-
+  <b>Building products developers actually use.</b>
+  <br>
+  One project at a time.
 </p>
