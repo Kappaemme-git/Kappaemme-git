@@ -62,7 +62,7 @@ If one of my projects helped you, consider sponsoring my open-source work.
 https://kappaemme.dev
 
 𝕏 **X (Twitter)**  
-https://x.com/Kappaemme1926
+https://x.com/Kappaemmedev
 
 💻 **GitHub**  
 https://github.com/Kappaemme-git
